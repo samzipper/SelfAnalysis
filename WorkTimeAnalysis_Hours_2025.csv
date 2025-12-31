@@ -2774,43 +2774,43 @@ Time,Day,Activity,Daytype,week_start_date
 10:00 PM,Thursday,Not Work,half day,2025-03-16
 10:30 PM,Thursday,Not Work,half day,2025-03-16
 11:00 PM,Thursday,Not Work,half day,2025-03-16
-5:00 AM,Friday,Not Work,NA,2025-03-16
-5:30 AM,Friday,Not Work,NA,2025-03-16
-6:00 AM,Friday,Not Work,NA,2025-03-16
-6:30 AM,Friday,Not Work,NA,2025-03-16
-7:00 AM,Friday,Not Work,NA,2025-03-16
-7:30 AM,Friday,service,NA,2025-03-16
-8:00 AM,Friday,Not Work,NA,2025-03-16
-8:30 AM,Friday,Not Work,NA,2025-03-16
-9:00 AM,Friday,Not Work,NA,2025-03-16
-9:30 AM,Friday,Not Work,NA,2025-03-16
-10:00 AM,Friday,Not Work,NA,2025-03-16
-10:30 AM,Friday,Not Work,NA,2025-03-16
-11:00 AM,Friday,Not Work,NA,2025-03-16
-11:30 AM,Friday,Not Work,NA,2025-03-16
-12:00 PM,Friday,Not Work,NA,2025-03-16
-12:30 PM,Friday,service,NA,2025-03-16
-1:00 PM,Friday,logistics,NA,2025-03-16
-1:30 PM,Friday,logistics,NA,2025-03-16
-2:00 PM,Friday,Not Work,NA,2025-03-16
-2:30 PM,Friday,logistics,NA,2025-03-16
-3:00 PM,Friday,logistics,NA,2025-03-16
-3:30 PM,Friday,Not Work,NA,2025-03-16
-4:00 PM,Friday,Not Work,NA,2025-03-16
-4:30 PM,Friday,Not Work,NA,2025-03-16
-5:00 PM,Friday,Not Work,NA,2025-03-16
-5:30 PM,Friday,logistics,NA,2025-03-16
-6:00 PM,Friday,Not Work,NA,2025-03-16
-6:30 PM,Friday,Not Work,NA,2025-03-16
-7:00 PM,Friday,Not Work,NA,2025-03-16
-7:30 PM,Friday,Not Work,NA,2025-03-16
-8:00 PM,Friday,Not Work,NA,2025-03-16
-8:30 PM,Friday,Not Work,NA,2025-03-16
-9:00 PM,Friday,Not Work,NA,2025-03-16
-9:30 PM,Friday,Not Work,NA,2025-03-16
-10:00 PM,Friday,Not Work,NA,2025-03-16
-10:30 PM,Friday,Not Work,NA,2025-03-16
-11:00 PM,Friday,Not Work,NA,2025-03-16
+5:00 AM,Friday,Not Work,half day,2025-03-16
+5:30 AM,Friday,Not Work,half day,2025-03-16
+6:00 AM,Friday,Not Work,half day,2025-03-16
+6:30 AM,Friday,Not Work,half day,2025-03-16
+7:00 AM,Friday,Not Work,half day,2025-03-16
+7:30 AM,Friday,service,half day,2025-03-16
+8:00 AM,Friday,Not Work,half day,2025-03-16
+8:30 AM,Friday,Not Work,half day,2025-03-16
+9:00 AM,Friday,Not Work,half day,2025-03-16
+9:30 AM,Friday,Not Work,half day,2025-03-16
+10:00 AM,Friday,Not Work,half day,2025-03-16
+10:30 AM,Friday,Not Work,half day,2025-03-16
+11:00 AM,Friday,Not Work,half day,2025-03-16
+11:30 AM,Friday,Not Work,half day,2025-03-16
+12:00 PM,Friday,Not Work,half day,2025-03-16
+12:30 PM,Friday,service,half day,2025-03-16
+1:00 PM,Friday,logistics,half day,2025-03-16
+1:30 PM,Friday,logistics,half day,2025-03-16
+2:00 PM,Friday,Not Work,half day,2025-03-16
+2:30 PM,Friday,logistics,half day,2025-03-16
+3:00 PM,Friday,logistics,half day,2025-03-16
+3:30 PM,Friday,Not Work,half day,2025-03-16
+4:00 PM,Friday,Not Work,half day,2025-03-16
+4:30 PM,Friday,Not Work,half day,2025-03-16
+5:00 PM,Friday,Not Work,half day,2025-03-16
+5:30 PM,Friday,logistics,half day,2025-03-16
+6:00 PM,Friday,Not Work,half day,2025-03-16
+6:30 PM,Friday,Not Work,half day,2025-03-16
+7:00 PM,Friday,Not Work,half day,2025-03-16
+7:30 PM,Friday,Not Work,half day,2025-03-16
+8:00 PM,Friday,Not Work,half day,2025-03-16
+8:30 PM,Friday,Not Work,half day,2025-03-16
+9:00 PM,Friday,Not Work,half day,2025-03-16
+9:30 PM,Friday,Not Work,half day,2025-03-16
+10:00 PM,Friday,Not Work,half day,2025-03-16
+10:30 PM,Friday,Not Work,half day,2025-03-16
+11:00 PM,Friday,Not Work,half day,2025-03-16
 5:00 AM,Saturday,Not Work,weekend,2025-03-16
 5:30 AM,Saturday,Not Work,weekend,2025-03-16
 6:00 AM,Saturday,Not Work,weekend,2025-03-16
@@ -7658,80 +7658,80 @@ Time,Day,Activity,Daytype,week_start_date
 11:00 PM,Wednesday,Not Work,half day,2025-07-27
 11:30 PM,Wednesday,Not Work,half day,2025-07-27
 12:00 AM,Wednesday,Not Work,half day,2025-07-27
-6:00 AM,Thursday,Not Work,NA,2025-07-27
-6:30 AM,Thursday,Not Work,NA,2025-07-27
-7:00 AM,Thursday,talking,NA,2025-07-27
-7:30 AM,Thursday,logistics,NA,2025-07-27
-8:00 AM,Thursday,talking,NA,2025-07-27
-8:30 AM,Thursday,talking,NA,2025-07-27
-9:00 AM,Thursday,Not Work,NA,2025-07-27
-9:30 AM,Thursday,Not Work,NA,2025-07-27
-10:00 AM,Thursday,Not Work,NA,2025-07-27
-10:30 AM,Thursday,Not Work,NA,2025-07-27
-11:00 AM,Thursday,Not Work,NA,2025-07-27
-11:30 AM,Thursday,Not Work,NA,2025-07-27
-12:00 PM,Thursday,Not Work,NA,2025-07-27
-12:30 PM,Thursday,Not Work,NA,2025-07-27
-1:00 PM,Thursday,Not Work,NA,2025-07-27
-1:30 PM,Thursday,Not Work,NA,2025-07-27
-2:00 PM,Thursday,Not Work,NA,2025-07-27
-2:30 PM,Thursday,Not Work,NA,2025-07-27
-3:00 PM,Thursday,Not Work,NA,2025-07-27
-3:30 PM,Thursday,Not Work,NA,2025-07-27
-4:00 PM,Thursday,Not Work,NA,2025-07-27
-4:30 PM,Thursday,Not Work,NA,2025-07-27
-5:00 PM,Thursday,Not Work,NA,2025-07-27
-5:30 PM,Thursday,Not Work,NA,2025-07-27
-6:00 PM,Thursday,Not Work,NA,2025-07-27
-6:30 PM,Thursday,Not Work,NA,2025-07-27
-7:00 PM,Thursday,Not Work,NA,2025-07-27
-7:30 PM,Thursday,Not Work,NA,2025-07-27
-8:00 PM,Thursday,Not Work,NA,2025-07-27
-8:30 PM,Thursday,Not Work,NA,2025-07-27
-9:00 PM,Thursday,Not Work,NA,2025-07-27
-9:30 PM,Thursday,Not Work,NA,2025-07-27
-10:00 PM,Thursday,Not Work,NA,2025-07-27
-10:30 PM,Thursday,Not Work,NA,2025-07-27
-11:00 PM,Thursday,Not Work,NA,2025-07-27
-11:30 PM,Thursday,Not Work,NA,2025-07-27
-12:00 AM,Thursday,Not Work,NA,2025-07-27
-6:00 AM,Friday,Not Work,NA,2025-07-27
-6:30 AM,Friday,Not Work,NA,2025-07-27
-7:00 AM,Friday,Not Work,NA,2025-07-27
-7:30 AM,Friday,Not Work,NA,2025-07-27
-8:00 AM,Friday,Not Work,NA,2025-07-27
-8:30 AM,Friday,Not Work,NA,2025-07-27
-9:00 AM,Friday,Not Work,NA,2025-07-27
-9:30 AM,Friday,Not Work,NA,2025-07-27
-10:00 AM,Friday,Not Work,NA,2025-07-27
-10:30 AM,Friday,Not Work,NA,2025-07-27
-11:00 AM,Friday,Not Work,NA,2025-07-27
-11:30 AM,Friday,Not Work,NA,2025-07-27
-12:00 PM,Friday,Not Work,NA,2025-07-27
-12:30 PM,Friday,Not Work,NA,2025-07-27
-1:00 PM,Friday,Not Work,NA,2025-07-27
-1:30 PM,Friday,Not Work,NA,2025-07-27
-2:00 PM,Friday,Not Work,NA,2025-07-27
-2:30 PM,Friday,Not Work,NA,2025-07-27
-3:00 PM,Friday,Not Work,NA,2025-07-27
-3:30 PM,Friday,Not Work,NA,2025-07-27
-4:00 PM,Friday,Not Work,NA,2025-07-27
-4:30 PM,Friday,Not Work,NA,2025-07-27
-5:00 PM,Friday,Not Work,NA,2025-07-27
-5:30 PM,Friday,Not Work,NA,2025-07-27
-6:00 PM,Friday,Not Work,NA,2025-07-27
-6:30 PM,Friday,Not Work,NA,2025-07-27
-7:00 PM,Friday,Not Work,NA,2025-07-27
-7:30 PM,Friday,Not Work,NA,2025-07-27
-8:00 PM,Friday,Not Work,NA,2025-07-27
-8:30 PM,Friday,Not Work,NA,2025-07-27
-9:00 PM,Friday,Not Work,NA,2025-07-27
-9:30 PM,Friday,Not Work,NA,2025-07-27
-10:00 PM,Friday,Not Work,NA,2025-07-27
-10:30 PM,Friday,Not Work,NA,2025-07-27
-11:00 PM,Friday,Not Work,NA,2025-07-27
-11:30 PM,Friday,Not Work,NA,2025-07-27
-12:00 AM,Friday,Not Work,NA,2025-07-27
+6:00 AM,Thursday,Not Work,day off,2025-07-27
+6:30 AM,Thursday,Not Work,day off,2025-07-27
+7:00 AM,Thursday,talking,day off,2025-07-27
+7:30 AM,Thursday,logistics,day off,2025-07-27
+8:00 AM,Thursday,talking,day off,2025-07-27
+8:30 AM,Thursday,talking,day off,2025-07-27
+9:00 AM,Thursday,Not Work,day off,2025-07-27
+9:30 AM,Thursday,Not Work,day off,2025-07-27
+10:00 AM,Thursday,Not Work,day off,2025-07-27
+10:30 AM,Thursday,Not Work,day off,2025-07-27
+11:00 AM,Thursday,Not Work,day off,2025-07-27
+11:30 AM,Thursday,Not Work,day off,2025-07-27
+12:00 PM,Thursday,Not Work,day off,2025-07-27
+12:30 PM,Thursday,Not Work,day off,2025-07-27
+1:00 PM,Thursday,Not Work,day off,2025-07-27
+1:30 PM,Thursday,Not Work,day off,2025-07-27
+2:00 PM,Thursday,Not Work,day off,2025-07-27
+2:30 PM,Thursday,Not Work,day off,2025-07-27
+3:00 PM,Thursday,Not Work,day off,2025-07-27
+3:30 PM,Thursday,Not Work,day off,2025-07-27
+4:00 PM,Thursday,Not Work,day off,2025-07-27
+4:30 PM,Thursday,Not Work,day off,2025-07-27
+5:00 PM,Thursday,Not Work,day off,2025-07-27
+5:30 PM,Thursday,Not Work,day off,2025-07-27
+6:00 PM,Thursday,Not Work,day off,2025-07-27
+6:30 PM,Thursday,Not Work,day off,2025-07-27
+7:00 PM,Thursday,Not Work,day off,2025-07-27
+7:30 PM,Thursday,Not Work,day off,2025-07-27
+8:00 PM,Thursday,Not Work,day off,2025-07-27
+8:30 PM,Thursday,Not Work,day off,2025-07-27
+9:00 PM,Thursday,Not Work,day off,2025-07-27
+9:30 PM,Thursday,Not Work,day off,2025-07-27
+10:00 PM,Thursday,Not Work,day off,2025-07-27
+10:30 PM,Thursday,Not Work,day off,2025-07-27
+11:00 PM,Thursday,Not Work,day off,2025-07-27
+11:30 PM,Thursday,Not Work,day off,2025-07-27
+12:00 AM,Thursday,Not Work,day off,2025-07-27
+6:00 AM,Friday,Not Work,day off,2025-07-27
+6:30 AM,Friday,Not Work,day off,2025-07-27
+7:00 AM,Friday,Not Work,day off,2025-07-27
+7:30 AM,Friday,Not Work,day off,2025-07-27
+8:00 AM,Friday,Not Work,day off,2025-07-27
+8:30 AM,Friday,Not Work,day off,2025-07-27
+9:00 AM,Friday,Not Work,day off,2025-07-27
+9:30 AM,Friday,Not Work,day off,2025-07-27
+10:00 AM,Friday,Not Work,day off,2025-07-27
+10:30 AM,Friday,Not Work,day off,2025-07-27
+11:00 AM,Friday,Not Work,day off,2025-07-27
+11:30 AM,Friday,Not Work,day off,2025-07-27
+12:00 PM,Friday,Not Work,day off,2025-07-27
+12:30 PM,Friday,Not Work,day off,2025-07-27
+1:00 PM,Friday,Not Work,day off,2025-07-27
+1:30 PM,Friday,Not Work,day off,2025-07-27
+2:00 PM,Friday,Not Work,day off,2025-07-27
+2:30 PM,Friday,Not Work,day off,2025-07-27
+3:00 PM,Friday,Not Work,day off,2025-07-27
+3:30 PM,Friday,Not Work,day off,2025-07-27
+4:00 PM,Friday,Not Work,day off,2025-07-27
+4:30 PM,Friday,Not Work,day off,2025-07-27
+5:00 PM,Friday,Not Work,day off,2025-07-27
+5:30 PM,Friday,Not Work,day off,2025-07-27
+6:00 PM,Friday,Not Work,day off,2025-07-27
+6:30 PM,Friday,Not Work,day off,2025-07-27
+7:00 PM,Friday,Not Work,day off,2025-07-27
+7:30 PM,Friday,Not Work,day off,2025-07-27
+8:00 PM,Friday,Not Work,day off,2025-07-27
+8:30 PM,Friday,Not Work,day off,2025-07-27
+9:00 PM,Friday,Not Work,day off,2025-07-27
+9:30 PM,Friday,Not Work,day off,2025-07-27
+10:00 PM,Friday,Not Work,day off,2025-07-27
+10:30 PM,Friday,Not Work,day off,2025-07-27
+11:00 PM,Friday,Not Work,day off,2025-07-27
+11:30 PM,Friday,Not Work,day off,2025-07-27
+12:00 AM,Friday,Not Work,day off,2025-07-27
 6:00 AM,Saturday,Not Work,weekend,2025-07-27
 6:30 AM,Saturday,Not Work,weekend,2025-07-27
 7:00 AM,Saturday,Not Work,weekend,2025-07-27
