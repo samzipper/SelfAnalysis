@@ -13442,11 +13442,11 @@ Time,Day,Activity,Daytype,week_start_date
 10:30 AM,Saturday,Not Work,weekend,2025-12-28
 11:00 AM,Saturday,Not Work,weekend,2025-12-28
 11:30 AM,Saturday,Not Work,weekend,2025-12-28
-12:00 PM,Saturday,Not Work,weekend,2025-12-28
-12:30 PM,Saturday,Not Work,weekend,2025-12-28
-1:00 PM,Saturday,Not Work,weekend,2025-12-28
-1:30 PM,Saturday,Not Work,weekend,2025-12-28
-2:00 PM,Saturday,Not Work,weekend,2025-12-28
+12:00 PM,Saturday,research,weekend,2025-12-28
+12:30 PM,Saturday,research,weekend,2025-12-28
+1:00 PM,Saturday,logistics,weekend,2025-12-28
+1:30 PM,Saturday,research,weekend,2025-12-28
+2:00 PM,Saturday,research,weekend,2025-12-28
 2:30 PM,Saturday,Not Work,weekend,2025-12-28
 3:00 PM,Saturday,Not Work,weekend,2025-12-28
 3:30 PM,Saturday,Not Work,weekend,2025-12-28
